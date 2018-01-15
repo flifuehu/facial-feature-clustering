@@ -1,0 +1,69 @@
+CLUSTER 1:
+Total number of instances inside the cluster:	2
+
+CLUSTER 2:
+Total number of instances inside the cluster:	2
+
+CLUSTER 3:
+Total number of instances inside the cluster:	3
+
+CLUSTER 4:
+Total number of instances inside the cluster:	3
+
+CLUSTER 5:
+Total number of instances inside the cluster:	3
+
+CLUSTER 6:
+Total number of instances inside the cluster:	4
+
+CLUSTER 7:
+Total number of instances inside the cluster:	3
+
+CLUSTER 8:
+Total number of instances inside the cluster:	6
+
+CLUSTER 9:
+Total number of instances inside the cluster:	7
+
+CLUSTER 10:
+Total number of instances inside the cluster:	6
+
+CLUSTER 11:
+Total number of instances inside the cluster:	10
+
+CLUSTER 12:
+Total number of instances inside the cluster:	6
+
+CLUSTER 13:
+Total number of instances inside the cluster:	9
+
+CLUSTER 14:
+Total number of instances inside the cluster:	6
+
+CLUSTER 15:
+Total number of instances inside the cluster:	10
+
+CLUSTER 16:
+Total number of instances inside the cluster:	8
+
+CLUSTER 17:
+Total number of instances inside the cluster:	10
+
+CLUSTER 18:
+Total number of instances inside the cluster:	10
+
+CLUSTER 19:
+Total number of instances inside the cluster:	15
+
+CLUSTER 20:
+Total number of instances inside the cluster:	15
+
+CLUSTER 21:
+Total number of instances inside the cluster:	12
+
+CLUSTER 22:
+Total number of instances inside the cluster:	14
+
+CLUSTER 23:
+Total number of instances inside the cluster:	22
+

@@ -1,0 +1,33 @@
+CLUSTER 1:
+Total number of instances inside the cluster:	1
+
+CLUSTER 2:
+Total number of instances inside the cluster:	1
+
+CLUSTER 3:
+Total number of instances inside the cluster:	2
+
+CLUSTER 4:
+Total number of instances inside the cluster:	4
+
+CLUSTER 5:
+Total number of instances inside the cluster:	3
+
+CLUSTER 6:
+Total number of instances inside the cluster:	7
+
+CLUSTER 7:
+Total number of instances inside the cluster:	8
+
+CLUSTER 8:
+Total number of instances inside the cluster:	15
+
+CLUSTER 9:
+Total number of instances inside the cluster:	16
+
+CLUSTER 10:
+Total number of instances inside the cluster:	20
+
+CLUSTER 11:
+Total number of instances inside the cluster:	16
+
